@@ -1,7 +1,7 @@
 {
   "Header": {
     "title": "Fair, Reliable, Solution Oriented",
-    "paragraph": "We use our legal knowledge and experience in the most effective way to solve your legal problems"
+    "paragraph": "I use my legal knowledge and experience in the most effective way to solve your legal problems."
   },
   "About": {
     "paragraph": "After graduating from Istanbul Kültür University, I started my career in a company that provides legal consultancy services to foreigners in the real estate sector. I gained experience in this field for many years and then specialized in real estate law. I provide honest, reliable and high quality services to my clients and work in all aspects of law. I also provide mediation services. I am always attentive to my clients' needs and solution-oriented.",
@@ -67,34 +67,34 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-building",
       "name": "Real Estate Law",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Expert advice on real estate transactions, property disputes, and zoning regulations."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-flag",
       "name": "Foreigners Law",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Legal assistance for foreigners navigating immigration and residency issues."
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-family",
       "name": "Family Law",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Compassionate representation for family-related legal matters such as divorce, child custody, and adoption."
     },
     {
       "icon": "fa fa-language",
       "name": "Criminal Law",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Aggressive defense and advocacy for individuals facing criminal charges."
     },
     {
       "icon": "fa fa-plane",
       "name": "Mediation Services",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Neutral third-party mediation to help resolve conflicts and reach mutually beneficial agreements."
     },
     {
       "icon": "fa fa-pie-chart",
       "name": "Business Law",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Comprehensive legal services for businesses, including contract drafting, intellectual property protection, and corporate governance."
     }
   ],
   "Testimonials": [
@@ -152,9 +152,10 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Gökalp Mahallesi 54/2 Sokak No:2 Kat:1 Daire:2 ",
+    "phonePersonal": "+90 (534) 651 77 43",
+    "phoneJob": "+90 (212) 514 22 28",
+    "email": "av.cansubektasli@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -162,23 +163,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Personalized Consultation",
+      "text": "Schedule a consultation with me to discuss your specific legal matter and receive expert guidance on the next steps to take."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Responsive Communication",
+      "text": "Pride ourselves on being available and responsive to my clients' needs, and keep them informed every step of the way."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Customized Legal Strategies",
+      "text": "My legal strategies are tailored to the specific needs and goals of each client, ensuring the best possible outcome."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Experienced Legal Representation",
+      "text": "As a highly experienced and dedicated advocate, I provide expert legal representation and guidance in a wide range of legal areas."
     }
   ]
 }
